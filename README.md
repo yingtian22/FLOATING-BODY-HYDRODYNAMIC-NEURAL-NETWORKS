@@ -181,4 +181,5 @@ MIT License
 
 ---
 Thanks to the authors of [lagrangian_nns by MilesCranmer et al.](https://github.com/MilesCranmer/lagrangian_nns) for inspiration and foundational ideas that helped guide this work.
+
 **Have fun & make waves 🌊**
