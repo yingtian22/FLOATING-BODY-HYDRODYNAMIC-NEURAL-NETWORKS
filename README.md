@@ -20,10 +20,10 @@
 ### 🌊 Flow Fields (Model vs. True)
 
 <p align="center">
-  <img src="figures/flow_quiver_best.png" width="210" alt="Flow Quiver (Model)">
-  <img src="figures/flow_quiver_true.png" width="210" alt="Flow Quiver (True)">
-  <img src="figures/flow_stream_best.png" width="210" alt="Flow Stream (Model)">
-  <img src="figures/flow_stream_true.png" width="210" alt="Flow Stream (True)">
+  <img src="figures/flow_quiver_best.png" width="150" alt="Flow Quiver (Model)">
+  <img src="figures/flow_quiver_true.png" width="150" alt="Flow Quiver (True)">
+  <img src="figures/flow_stream_best.png" width="150" alt="Flow Stream (Model)">
+  <img src="figures/flow_stream_true.png" width="150" alt="Flow Stream (True)">
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ### 🎥 Example Predictions (GIFs)
 
 <p align="center">
-  <img src="gifs/fb_true_vs_pred_idx36_pretty.gif" width="320" alt="Trajectory Comparison 36">
-  <img src="gifs/fb_true_vs_pred_idx59_pretty.gif" width="320" alt="Trajectory Comparison 59">
+  <img src="gifs/fb_true_vs_pred_idx36.gif" width="320" alt="Trajectory Comparison Example a">
+  <img src="gifs/fb_true_vs_pred_idx59.gif" width="320" alt="Trajectory Comparison Example b">
 </p>
 
 ---
