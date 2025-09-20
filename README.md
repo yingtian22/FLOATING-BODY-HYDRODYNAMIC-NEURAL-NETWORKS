@@ -8,16 +8,40 @@
 > This repository provides the implementation of our paper:  
 > 📄 [Floating-Body Hydrodynamic Neural Networks (arXiv:2509.13783)](https://arxiv.org/abs/2509.13783)
 
-<p align="center">
-  <img alt="Flow field streamplot" src="figures/flow_stream_best.png" width="210">
-  <img alt="Flow field quiver" src="figures/flow_quiver_best.png" width="210">
-</p>
+## 🧪 Evaluation & Visualization
+
+- **Per-second MSE**: position/velocity/overall trajectory errors on test trajectories  
+- **GIFs**: `evaluate.render_gif_comparison` shows true vs. predicted trajectories  
+- **Flow visualizations**: learned vs. true background flow (quiver + streamplot)  
+- **Force decomposition**: `debugtools.debug_decompose_forces` returns interpretable terms (`F_q`, `F_l`, `F_h`, `m_eff`, `a`, etc.)
+
+---
+
+### 🌊 Flow Fields (Model vs. True)
 
 <p align="center">
-  <img src="gifs/fb_true_vs_pred_idx36.gif" width="320" alt="Trajectory Comparison 36">
-  <img src="gifs/fb_true_vs_pred_idx59.gif" width="320" alt="Trajectory Comparison 59">
+  <img src="figures/flow_quiver_best.png" width="210" alt="Flow Quiver (Model)">
+  <img src="figures/flow_quiver_true.png" width="210" alt="Flow Quiver (True)">
+  <img src="figures/flow_stream_best.png" width="210" alt="Flow Stream (Model)">
+  <img src="figures/flow_stream_true.png" width="210" alt="Flow Stream (True)">
 </p>
 
+---
+
+### 🚀 Trajectory Prediction
+
+<p align="center">
+  <img src="figures/fb_panel_row_group1.png" width="600" alt="Trajectory Prediction Panel">
+</p>
+
+---
+
+### 🎥 Example Predictions (GIFs)
+
+<p align="center">
+  <img src="gifs/fb_true_vs_pred_idx36_pretty.gif" width="320" alt="Trajectory Comparison 36">
+  <img src="gifs/fb_true_vs_pred_idx59_pretty.gif" width="320" alt="Trajectory Comparison 59">
+</p>
 
 ---
 
