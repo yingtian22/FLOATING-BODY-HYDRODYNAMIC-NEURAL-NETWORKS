@@ -8,7 +8,7 @@
 > This repository provides the implementation of our paper:  
 > 📄 [Floating-Body Hydrodynamic Neural Networks (arXiv:2509.13783)](https://arxiv.org/abs/2509.13783)
 
-<img alt="Flow field streamplot" src="figures/flow_stream_best.png" width="420"> <img alt="Flow field quiver" src="figures/flow_quiver_best.png" width="420">
+<img alt="Flow field streamplot" src="figures/flow_stream_best.png" width="210"> <img alt="Flow field quiver" src="figures/flow_quiver_best.png" width="210">
 
 ---
 
