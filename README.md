@@ -12,9 +12,10 @@
   <img alt="Flow field streamplot" src="figures/flow_stream_best.png" width="210">
   <img alt="Flow field quiver" src="figures/flow_quiver_best.png" width="210">
 </p>
+
 <p align="center">
-  <img src="gifs/fb_true_vs_pred_idx36_pretty.gif" width="320" alt="Trajectory Comparison 36">
-  <img src="gifs/fb_true_vs_pred_idx59_pretty.gif" width="320" alt="Trajectory Comparison 59">
+  <img src="gifs/fb_true_vs_pred_idx36.gif" width="320" alt="Trajectory Comparison 36">
+  <img src="gifs/fb_true_vs_pred_idx59.gif" width="320" alt="Trajectory Comparison 59">
 </p>
 
 
